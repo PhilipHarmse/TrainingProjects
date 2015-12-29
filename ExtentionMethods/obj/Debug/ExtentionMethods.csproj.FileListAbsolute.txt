@@ -1,1 +1,6 @@
 C:\Users\philip.harmse\Documents\1.LearnVisualStudio\4.CoreC#Fundamentals\Projects\ExtentionMethods\bin\Debug\ExtentionMethods.exe.config
+C:\Users\philip.harmse\Documents\1.LearnVisualStudio\4.CoreC#Fundamentals\Projects\ExtentionMethods\bin\Debug\ExtentionMethods.exe
+C:\Users\philip.harmse\Documents\1.LearnVisualStudio\4.CoreC#Fundamentals\Projects\ExtentionMethods\bin\Debug\ExtentionMethods.pdb
+C:\Users\philip.harmse\Documents\1.LearnVisualStudio\4.CoreC#Fundamentals\Projects\ExtentionMethods\obj\Debug\ExtentionMethods.csprojResolveAssemblyReference.cache
+C:\Users\philip.harmse\Documents\1.LearnVisualStudio\4.CoreC#Fundamentals\Projects\ExtentionMethods\obj\Debug\ExtentionMethods.exe
+C:\Users\philip.harmse\Documents\1.LearnVisualStudio\4.CoreC#Fundamentals\Projects\ExtentionMethods\obj\Debug\ExtentionMethods.pdb
