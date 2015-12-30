@@ -1,0 +1,1 @@
+C:\Users\philip.harmse\Documents\1.LearnVisualStudio\4.CoreC#Fundamentals\Projects\SortingWithLamda\bin\Debug\SortingWithLamda.exe.config
